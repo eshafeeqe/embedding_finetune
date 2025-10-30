@@ -1,0 +1,11 @@
+torch
+sentence-transformers
+datasets
+scipy
+numpy
+tqdm
+scikit-learn
+matplotlib
+seaborn
+umap-learn
+accelerate
